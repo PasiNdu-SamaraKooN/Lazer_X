@@ -113,7 +113,7 @@ Due to Userbot; Your WhatsApp account may be banned. Lazer_X is an open source p
 ### 💻Idea & Management.
 
 <a href="https://wa.me/94718846368">
-    <img src="https://telegra.ph/file/9714cfeb908799709990f.jpg" width="200" height="200">
+    <img src="https://telegra.ph/file/666b405ec87168c327b1f.jpg" width="200" height="200">
   </a>
 
 (Vishwa_Hansa)
