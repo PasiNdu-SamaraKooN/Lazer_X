@@ -54,11 +54,6 @@
             "required": true,
             "value": "EN"
         },
-        "AUTO_BIO": {
-            "description": "Setup your AUTO BIO feature. This is new clock for your WhatsApp about.",
-            "required": true,
-            "value": "false"
-        },
         "HANDLERS": {
             "description": "Enter your bot prefix to use commands.",
             "required": true,
