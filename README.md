@@ -104,7 +104,7 @@ Due to Userbot; Your WhatsApp account may be banned. Lazer_X is an open source p
     <img src="https://telegra.ph/file/a57f5d4d523d374c861f9.jpg" width="200" height="200">
   </a>
 
-(Uchitha_Itachi)
+(Uchiha_Itachi)
 
 <a href="http://wa.me/94772842356">
     <img src="https://img.shields.io/badge/Contact%20me%20on%20WhatsApp-purple&style=plastic">
