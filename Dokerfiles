@@ -1,9 +1,0 @@
-FROM Pasindu samarkooN/Lazer_X:latest
-
-RUN git clone https://github.com/PasiNdu-SamaraKooN/Lazer_X/root/Lazer_X
-WORKDIR /root/lazer_x/
-ENV TZ=Asia/Colombo
-RUN npm install supervisor -g
-RUN yarn install --no-audit
-## Lazer_X 
-CMD ["node", "app.json"]
