@@ -1,0 +1,23 @@
+{
+    "name": "Lazer_X version 4.0.0",
+    "description": "Lazer_X is a new WhatsApp bot with amazing features. Make your WhatsApp more useful to you",
+    "logo": "https://telegra.ph/file/f39250b4f94fd7be7a0b7.png",
+    "stack": "container",
+    "env": {
+        "LAZERX_SESSION": {
+            "description": "Paste your QR session.",
+            "required": true 
+        },
+        "SUDO": {
+            "description": "If you need to control your Lazer_X from another number paste it in the international form ex:- 947xxxxxxxx [94 is the Sri Lankan code] If you don't need this option, leave this.",
+            "required": false
+        },
+        "BIO": {
+            "description": "Change the about of your Lazer_X.",
+            "required": false,
+            "value": "Get your service from me. cause I'm the Lazer_X"
+        },
+        "AUTO_STICKER": {
+            "description": "If you like this option [AUTO_STICKER] you can write 'true'. If you don't want it, leave this.",
+            "required": false,
+            "value": "false"  
