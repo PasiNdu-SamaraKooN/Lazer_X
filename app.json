@@ -36,18 +36,12 @@
         "SONG_DOWNLOADING": {
             "description": "Type your SONG_DOWNLOADING message",
             "required": false,
-            "value": "*.ılı.———downloaing———.ılı.*
-                  *your song*
-      *00:00━●━━━━━━━ 03:05*
-              *⇆     ◁ㅤ❚❚ㅤ▷   ↻*"
+            "value": "*.ılı.———uploading———.ılı.*"
         },
         "SONG_UPLOADING": {
             "description": "Type your SONG_DOWNLOADING message.",
             "required": false,
-            "value": "*.ılı.———uploading———.ılı.*
-                *your song*
-     *00:00━━━━━━━●━ 03:05*
-             *⇆     ◁ㅤ❚❚ㅤ▷   ↻*"
+            "value": "*.ılı.———uploading———.ılı.*"
         },
         "LANGUAGE": {
             "description": "Enter your language. SI - Sinhala | EN - English | ES - Spanish(ag)",
