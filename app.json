@@ -5,7 +5,7 @@
     "keywords": ["whatsapp", "userbot", "bot", "api", "ai", "LazerX",
     "stack": "container",
     "env": {
-        "LazerX_SESSION": {
+        "LAZER-X_SESSION": {
             "description": "Paste your QR session.",
             "required": true
         },
