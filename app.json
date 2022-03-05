@@ -4,7 +4,7 @@
     "logo": "https://telegra.ph/file/f39250b4f94fd7be7a0b7.png",
     "stack": "container",
     "env": {
-        "LAZER_SESSION": {
+        "LAZERX_SESSION": {
             "description": "Paste your QR session.",
             "required": true
         },
