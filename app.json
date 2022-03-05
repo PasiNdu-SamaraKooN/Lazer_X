@@ -14,19 +14,19 @@
             "required": false
         },
         "BIO": {
-            "description": "Change Your live Bio | ඔබේ About එකට අවශ්‍ය දෙයක් මෙහි ලියන්න",
+            "description": "Change the about of your Lazer_X",
             "required": false,
-            "value": "ɪ ᴀᵐ ⁿᵒᵗ ᵖᵉʳᶠᵉᶜᵗ ʙᵘᵗ ɪ  ᴀᵐ ʟⁱᵐⁱᵗᵉᵈ ᴇᵈⁱᵗⁱᵒⁿ👀🔥"
+            "value": "Get your service from me. cause I'm the Lazer_X!"
         },
         "AUTO_STICKER": {
-            "description": "If you likes Auto Sticker you can write 'true'. Otherwise false",
+            "description": "If you like this option [AUTO_STICKER] you can write 'true'. If you don't want it, leave this.",
             "required": false,
             "value": "false"
          },
         "BOT_NAME": {
-            "description": "give a name you disire to give your bot (for auto reply white to identify)",
+            "description": "Type your Lazer_X 's name.",
             "required": false,
-            "value": "👩‍🦰©Amazone Alexa"
+            "value": "©Lazer_X☯"
         },
         "FULL_ALEXA": {
             "description": "Activate alexa chat bot",
