@@ -2,11 +2,10 @@
     "name": "Lazer_X version 4.0.0",
     "description": "Lazer_X is a new WhatsApp bot with amazing features. Make your WhatsApp more useful to you",
     "logo": "https://telegra.ph/file/f39250b4f94fd7be7a0b7.png",
-    "keywords": ["whatsapp", "userbot", "bot", "api", "ai", "LazerX"],
-   
+    "keywords": ["whatsapp", "userbot", "bot", "api", "ai", "LazerX",
     "stack": "container",
     "env": {
-        "NEUTRO_SESSION": {
+        "LazerX_SESSION": {
             "description": "Paste your QR session.",
             "required": true
         },
