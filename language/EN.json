@@ -176,24 +176,12 @@
             "SONG_DESC": "Uploads the song you wrote.",
             "NEED_TEXT_SONG": "*Please write a song!*\n*Example:* ```.song Alan Walker - Faded```",
             "NO_RESULT": "*I couldn't find anything :-(*",
-            "DOWNLOADING_SONG": "*.ılı.———downloaing———.ılı.*
-                  *your song*
-*00:00━●━━━━━━━ 03:05*
-             *⇆     ◁ㅤ❚❚ㅤ▷   ↻*",
-            "UPLOADING_SONG": "*.ılı.———uploading———.ılı.*
-                 *your song*
-*00:00━━━━━━━●━ 03:05*
-             *⇆     ◁ㅤ❚❚ㅤ▷   ↻*",
+            "DOWNLOADING_SONG": "*.ılı.———downloaing———.ılı.*",
+            "UPLOADING_SONG": "*.ılı.———uploading———.ılı.*",
             "VIDEO_DESC": "Downloads video from YouTube.",
             "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://m.youtube.com/watch?v=60ItHLz5WEA```",
-            "DOWNLOADING_VIDEO": "*.ılı.———downloaing———.ılı.*
-                  *your video*
-*00:00━●━━━━━━━ 03:05*
-             *⇆     ◁ㅤ❚❚ㅤ▷   ↻*",
-            "UPLOADING_VIDEO": "*.ılı.———uploading———.ılı.*
-                 *your video*
-*00:00━━━━━━━●━ 03:05*
-             *⇆     ◁ㅤ❚❚ㅤ▷   ↻*",
+            "DOWNLOADING_VIDEO": "*.ılı.———downloaing———.ılı.*",
+            "UPLOADING_VIDEO": "*.ılı.———uploading———.ılı.*",
             "YT_DESC": "It searchs videos on YouTube.",
             "NEED_WORDS": "```Please write what you need to search```",
             "GETTING_VIDEOS": "```I'm bringing videos...```",
