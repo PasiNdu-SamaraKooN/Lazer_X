@@ -28,20 +28,26 @@
             "required": false,
             "value": "©Lazer_X☯"
         },
-        "FULL_ALEXA": {
-            "description": "Activate alexa chat bot",
+        "FULL_LAZER": {
+            "description": "If you want to make your Lazer_X to a chat bot, type 'true'. Otherwise leave this.",
             "required": false,
             "value": "false"
         },
-        "SONGD": {
-            "description": "Customizable Song Download message",
+        "SONG_DOWNLOADING": {
+            "description": "Type your SONG_DOWNLOADING message",
             "required": false,
-            "value": "*◦•●◉Downloading Your Song◉●•◦*"
+            "value": "*.ılı.———downloaing———.ılı.*
+                  *your song*
+      *00:00━●━━━━━━━ 03:05*
+              *⇆     ◁ㅤ❚❚ㅤ▷   ↻*"
         },
-        "SONGU": {
-            "description": "Customizable Song upload message",
+        "SONG_UPLOADING": {
+            "description": "Type your SONG_DOWNLOADING message.",
             "required": false,
-            "value": "*◦•●◉✿Uploading Your Song✿◉●•◦*"
+            "value": "*.ılı.———uploading———.ılı.*
+                *your song*
+     *00:00━━━━━━━●━ 03:05*
+             *⇆     ◁ㅤ❚❚ㅤ▷   ↻*"
         },
         "LANGUAGE": {
             "description": "Enter your language. SI - Sinhala | EN - English | ES - Spanish(ag)",
