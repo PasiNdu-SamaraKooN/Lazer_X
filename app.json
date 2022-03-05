@@ -10,7 +10,7 @@
             "required": true
         },
         "SUDO": {
-            "description": "If you do not know how to use it, leave it blank! SUDO mode; Your number must be an international number. So you have to have your number after the country code. Example: 947xxxxxxxx (Sri lanka No. 94)",
+            "description": "If you need to control your Lazer_X from another number paste it in the international form ex:- 947xxxxxxxx [94 is the Sri Lankan code] If you don't need this option, leave this.",
             "required": false
         },
         "BIO": {
