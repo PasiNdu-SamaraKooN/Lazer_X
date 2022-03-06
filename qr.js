@@ -24,14 +24,14 @@ ${chalk.blue.italic('ℹ️  Connecting to Whatsapp... Please wait.')}`);
 	conn.on('open', async () => {
 		console.log(
 			chalk.green.bold('LazerX QR Code: '),
-			'LazerX;;;' +
+			'Lazer_X;;;' +
 				Buffer.from(JSON.stringify(conn.base64EncodedAuthInfo())).toString(
 					'base64'
 				)
 		);
 		await conn.sendMessage(
 			conn.user.jid,
-			'LazerX;;;' +
+			'Lazer_X;;;' +
 				Buffer.from(JSON.stringify(conn.base64EncodedAuthInfo())).toString(
 					'base64'
 				),
