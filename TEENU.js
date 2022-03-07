@@ -1,7 +1,7 @@
-/* Copyright (C) 2021 TENUX-Neotro.
-Licensed under the  GPL-3.0 License;
+/* Copyright (C) 2022 LazerX
+Licensed under the  GPL-2.0 License;
 you may not use this file except in compliance with the License.
-NEOTROX - TEENUHX
+PASINDU - LAZERX
 */
 
 const chalk = require('chalk');
